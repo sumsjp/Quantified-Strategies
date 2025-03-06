@@ -1,2 +1,0 @@
-# TRADING STRATEGIES Backtested - Shorts
-

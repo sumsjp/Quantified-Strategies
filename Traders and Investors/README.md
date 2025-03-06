@@ -1,1 +1,0 @@
-# Traders and Investors
