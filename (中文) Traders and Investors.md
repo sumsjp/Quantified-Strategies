@@ -7,30 +7,43 @@
 
 [[Youtube]](https://www.youtube.com/watch?v=0__x2wYjRIA&list=PLHFlSdhbIZ6Qj25o5dETtUmc6-cAmDdTx)
 
-總結的交易策略基於複製常春藤聯盟捐贈的投資方法，如Meb Faber和Eric W. Richardson的書 * Ivy Portfolio *所述。 該策略涉及創建一個多元化的投資組合，並分配給股票，債券和商品，旨在與標準普爾500指數相比，旨在長期增長，波動性較低。
+### 小節一：主題與背景
+- **主題**：介紹由Meb Faber和Eric W Richardson於2009年發行的《Ivy Portfolio》一書。
+- **背景**：該書提出了一種投資策略，旨在複製象牙-League大學（如耶魯大學）等機構的投資表現。
 
-### 關鍵組件：
-1. **投資組合分配** ：
-   - Stocks: ~60%
-   - Intermediate Bonds: ~20%
-   - Commodities: Remaining percentage (~20%)
+### 小節二：象牙-League.Portfolio的特點
+- **成份**：
+  - 股票約佔60%。
+  - 中期債券配置約佔20%。
+  - 剩餘部分分配於大宗商品。
+- **特性**：
+  - 投資組合分散化程度高。
+  - 具有長期投資視野。
 
-2. **客觀的** ：複製常春藤聯盟捐贈基金的表現，這些end賦以其長期多樣化的方法而聞名。
+### 小節三： historical performance
+- **歷史績效**：
+  - 平均名義報酬率超過4%，且調整後的通膨報酬率亦具競爭力。
+  - 標準差低於S&P 500指數，體現了較低的風險。
 
-3. **歷史表現** ：
-   - The portfolio has an inflation-adjusted return above 4%.
-   - Standard deviation is lower than that of the S&P 500, indicating lower volatility.
+### 小節四：策略實施
+- **實現方式**：
+  - 使用五檔ETF來模擬象牙-League_Portfolio的表現。
+  - 每檔ETF分配20%的相等權重。
 
-4. **執行** ：
-   - Use five ETFs with equal allocations (20% each) to approximate the Ivy Portfolio's performance.
-   - The example includes specific ETFs for exposure to stocks, bonds, and commodities.
+### 小節五：回測績效
+- **時間範圍**：從2008年至目前為止。
+- **年報酬率**：約4.6%，略低於歷史平均水準。
+- **表現不佳原因**：
+  - 大宗商品多年來表現欠佳。
+  - 2008年的金融危機導致投資組合最大回撤高達45%。
 
-5. **進行回測結果** ：
-   - From 2008, the annual return was ~4.6%, slightly below historical averages due to poor commodity performance.
-   - The portfolio dropped by 45% during the financial crisis in 2008.
-
-### 結論：
-該策略強調了長期投資和多元化，旨在穩定增長而不是高回報。 雖然可能不是 "set the world on fire," 它提供了一種平衡的方法，風險較低。
+### 小節六：結論
+- **總結**：
+  - 象牙-League_Portfolio提供了一種穩定且風險可控的長期投資策略。
+  - 雖然近期績效未達歷史水準，但其分散化和長線策略仍具價值。
+- **建議**：
+  - 投資者應根據自身風險 tolerance 和投資目標考慮此策略。
+  - 注意大宗商品市場的波動性和經濟環境的影響。
 </details>
 
 <details>
@@ -38,23 +51,41 @@
 
 [[Youtube]](https://www.youtube.com/watch?v=CHpw_7jZsA4&list=PLHFlSdhbIZ6Qj25o5dETtUmc6-cAmDdTx)
 
-保羅·厄爾·瓊斯（Paul Tudor Jones）是一位著名的金融家和商人，以其在金融市場上的出色成功而聞名。 這是他的交易策略的摘要：
+### 文章整理：Paul Tudor Jones 的交易策略與哲學
 
-1. **早期生活和背景** ：生於1954年，瓊斯從小就開始了他的交易生涯，利用技術分析來確定市場趨勢。
+#### 1. 主題
+- Paul Tudor Jones 是華爾街知名交易員，以其在金融市場的卓越表現和風險管理能力聞名。
+- 他成功預測並受益於1987年的股災（Black Monday），並在此後建立了一個成功的對衝基金——Tudor Investment Corporation。
 
-2. **預期市場崩潰** ：他通過正確預測重大的市場事件（例如1987年的黑色星期一崩潰）獲得了名聲。 瓊斯利用短投注和期貨合約來利用這些低迷。
+#### 2. 交易商品
+- 主要涉及股票、商品（如棉花期貨）、外匯市場及加密貨幣。
+- 近年來，Jones開始投資比特幣，視其為抗通膨的 Hedge Asset。
 
-3. **使用指標** ：他策略的關鍵組成部分是200天移動平均線。 該指標有助於他確定看漲或看跌的市場趨勢，並用作進入或退出行業的過濾器。
+#### 3. 使用指標
+- **200天移動平均線**：Jones強調此指標的重要性，認為其能有效篩選牛市和熊市周期，幫助避免市場下跌。
+- 其他技術分析工具：包括價格模式和趨勢追蹤方法。
 
-4. **全球宏交易** ：瓊斯採用了全球宏觀戰略，重點是受社會和政府變革影響的國際市場。 由於其流動性和對衝選擇，他更喜歡期貨市場。
+#### 4. 策略細則
+- **風險管理**：Jones注重嚴格的風險控制，並在交易中使用多種策略來分散風險。
+- **全球宏觀交易**：基於社會和政治變化，在國際金融市場中尋找機會。
+- **主動/portfolio management**：持續監控投資組合表現，及時買入、持有或賣出資產。
 
-5. **主動投資組合管理** ：瓊斯積極管理其投資組合，不斷監視投資並做出快速的決定以持有，出售或獲取資產。 這種方法旨在通過利用瞬態價格變動來擊敗市場回報。
+#### 5. 回測績效
+- **200天移動平均線策略**：
+  - 在1987年Black Monday前發出賣出信號。
+  - 避免了2000年至2003年的大多熊市，並在2008年金融危機前再次閃現賣出信號。
+- **績效 comparison**：
+  - 使用200天移動平均線的策略相比Buy-and-Hold，最大回撤較小（26% vs. 50%）。
 
-6. **風險管理** ：他的成功歸因於細緻的風險管理，使他能夠在揮發性市場上導航，同時最大程度地減少損失。
+#### 6. 結論
+- Jones的成功歸因於其精明的風險管理和對技術分析的敏銳洞察。
+- 其交易哲學強調簡單有效的指標和持續的市場監控，這使他能夠在多變的金融市場中保持競爭力。
 
-7. **創新和適應** ：瓊斯仍然是創新的，適應了他的策略，以包括比特幣等新資產類別，將其視為與黃金相比的卓越通貨膨脹對衝。
+---
 
-總而言之，保羅都鐸·瓊斯（Paul Tudor Jones）的戰略圍繞技術分析，利用200天移動平均線，主動投資組合管理和全球宏觀見解的指標。 他對風險管理和適應性的紀律嚴明的方法鞏固了他作為華爾街最有成就的商人之一的聲譽。
+### 批判性思考
+
+文章中提到Jones主要依賴200天移動平均線來作為交易信號，這一點值得商榷。雖然該指標在某些歷史時期表現出色，但它並非完美無缺。例如，在20世紀90年代的科技股泡沫期間，200天移動平均線未能及時預警崩盤，導致投資者可能蒙受重大損失。此外，Jones的成功部分歸因於他的經驗和直覺，而這些因素在文章中被弱化。技術指標雖然有用，但市場參與者的心理和行為往往會影響其效果，這點在Article中未充分探討。因此，僅依賴單一指標進行交易策略的制定，可能存在過度簡單化的風險。
 </details>
 
 <details>
@@ -62,36 +93,49 @@
 
 [[Youtube]](https://www.youtube.com/watch?v=QEwsaUp5nkw&list=PLHFlSdhbIZ6Qj25o5dETtUmc6-cAmDdTx)
 
-該視頻對吉姆·西蒙斯（Jim Simons）的交易策略和紀念品基金的非凡旅程進行了深入的探索。 這是涵蓋的要點的摘要：
+### 文章整理：Jim Simons 與 The Medallion Fund 的交易策略與成就
 
-1. **吉姆·西蒙斯（Jim Simons）和獎章基金** ：
-   - Jim Simons, a mathematician turned financier, founded The Medallion Fund, which is known for its extraordinary performance in the financial markets.
-   - The fund employs quantitative strategies based on vast amounts of data to identify market anomalies and exploit them for profit.
+#### 主題：量化投資與市場中性的對衝基金策略
+- **主題**：文章探討了 Jim Simons 創辦的 The Medallion Fund 如何通過量化模型和數據驅動的投資策略實現卓越的金融回報。
+- **核心理念**：強調數學、統計學在金融市場中的應用，以及持續創新和數據的重要性。
 
-2. **績效和費用** ：
-   -獎章基金始終提供令人印象深刻的回報，即使在扣除管理費和績效費後，每年也會超過50％的淨回報。
-   - The fund's size grew significantly over the years, reaching hundreds of millions of dollars.
+#### 交易商品與市場範圍
+- **主要交易商品**：股票及其衍生品（如期貨）。
+- **市場範圍**：涵蓋多個市場和資產類別，實現多元化投資。
 
-3. **關鍵人物** ：
-   - Important figures like Peter Brown and Bob Mercer played crucial roles in the fund's success, contributing to its quantitative models and strategies.
+#### 使用的指標與方法論
+- **量化模型**：基於統計套利和算法交易的方法。
+- **數據驅動決策**：依賴大量歷史數據進行模式識別和預測。
 
-4. **挑戰和風險管理** ：
-   - The fund faced a close call during the financial crisis when it narrowly escaped significant losses due to margin calls. This highlighted the importance of risk management and the role of luck in high-risk trading strategies.
+#### 策略細則
+1. **高頻交易**：
+   - 高頻交易策略，利用短期價格波動獲利。
+2. **市場中立**：
+   - 通過做多和做空來抵消市場風險，保持投資組合中性。
+3. **槓桿使用**：
+   - 常用槓桿放大收益，但同時也增加了潛在風險。
 
-5. **吉姆·西蒙斯的教訓** ：
-   - Emphasize data-driven decision making over intuition.
-   - Trade often, diversify across markets and time frames, and focus on market-neutral portfolios.
-   - Leverage can amplify returns but also increases risk; use it wisely.
-   - Collaborate with the best and persist through challenges.
+#### 回測績效與歷史表現
+- **年化回報率**：約為90%，遠超傳統投資策略。
+- **風險管理**：通過嚴格的風險控制和槓桿管理，避免重大損失。
+- **危機應對**：2007年的金融危機中，Medallion 幾乎遭遇崩盤，但憑藉市場轉機得以倖免。
 
-6. **推薦** ：
-   - The book "The Man Who Solved the Market" 對於那些有興趣深入研究西蒙斯的策略和紀念品基金歷史的人，建議使用格雷戈裡·扎克曼（Gregory Zuckerman）。
+#### 結論與啟示
+1. **量化投資的優勢**：
+   - 數據驅動決策比主觀判斷更為可靠。
+2. **持續創新的重要性**：
+   - 在金融市場中保持競爭優勢需要不斷優化模型和策略。
+3. **槓桿的雙刃劍作用**：
+   - 雖然放大收益，但也增加了潛在風險，需謹慎管理。
 
-7. **結論** ：
-   - Applying Jim Simons' principles to one's trading journey can pave the way for success in finance.
-   - The video encourages viewers to subscribe for more content on finance, investing, and secrets of success.
+#### 參考文獻
+- Zuckerman, G. (2012). *The Man Who Solved the Market*.  
+  提供了關於 Medallion Fund 的詳細歷史和策略分析，儘管未完全揭示具體交易模型，但提供了寶貴的歷史背景和數據驅動決策的洞見。
 
-總體而言，該視頻強調了定量策略，數據分析和紀律風險管理在實現財務成功方面的重要性，這是吉姆·西蒙斯（Jim Simons）和紀念品基金（Judallion Fund）的例證。
+---
+
+### 總結
+Jim Simons 和 The Medallion Fund 通過量化模型和高頻交易策略，在金融市場中取得了卓越的成績。其成功的關鍵在於對數學、統計學的深刻理解，以及對數據的極致追求。然而，槓桿使用的潛在風險也提醒投資者在追求高收益時需謹慎管理風險。
 </details>
 
 <details>
@@ -99,16 +143,31 @@
 
 [[Youtube]](https://www.youtube.com/watch?v=xSIQcXin12w&list=PLHFlSdhbIZ6Qj25o5dETtUmc6-cAmDdTx)
 
-**常春藤投資組合交易策略的摘要** 
+### 一、主題  
+- 探討一種投資策略，旨在複製 Ivy League 大學捐贈基金（如耶魯大學）的投資績效。
 
-meb Faber和Eric W. Richardson在其2009年的書 *Ivy Portfolio *中提出的常春藤投資組合交易策略旨在複製由常春藤聯盟大學（例如耶魯大學）管理的end賦的投資績效。 該策略涉及使用五個ETF創建多元化的投資組合，每個ETF分配了20％以模仿捐贈模型。
+### 二、交易商品  
+- 使用五隻交易所買賣基金（ETFs），每隻 ETF 分配比例為 20%。  
 
- **關鍵功能：** 
-- **客觀的：** 反映常春藤聯盟大學捐贈的回歸。
-- **投資組合組成：** 由五個具有相等權重的ETF（每個20％）組成。
-- **最近的表現：** 年收益率低為4.6％，低於歷史平均值，這主要是由於2015年和2016年的商品績效差。
-- **期望：** 預計回報的長期歸一化。
+### 三、使用指標  
+- 未明確提及具體的指標，但策略目標是實現與 Ivy Portfolio 相似的回報水平。
 
-該策略利用了end賦的多元化和長期投資方法，重點是重新平衡以保持平等的分配。
+### 四、策略細則  
+1. **投資組合構成**：五隻 ETF 每隻佔比 20%，具體 ETF 未在文中詳細列出。
+2. **目標績效**：追求類似於 Ivy Portfolio 的回報，但實際年回報率為 4.6%。
+3. **時間範圍**：策略在 2009 年發布，未明確提及後續調整。
+
+### 五、回測績效  
+- 年度回報率約為 4.6%，顯著低於歷史平均水平，主要歸因於大宗商品的糟糕表現。
+
+### 六、結論  
+- 儘管目標是複製 Ivy League 捐贈基金的表現，但由於 ETF 的選擇和市場環境的影響，實際績效未達預期。  
+
+---
+
+### 研究方向或問題  
+1. **Ivy Portfolio 與實際投資回報的差異**：探討為何 Ivy Portfolio 的實際表現低於歷史平均水平，尤其是大宗商品部分的表現不佳的原因。
+2. **ETF 投資策略的有效性**：研究五隻 ETF 的選擇對整體績效的影響，以及是否有更優的 ETF 組合可以替代。  
+3. **市場周期影響**：分析不同經濟周期下 Ivy Portfolio 策略的表現差異，探討其在當前市場的適用性。
 </details>
 
